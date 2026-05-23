@@ -55,3 +55,7 @@ com.labo03.sanmarcosstore/
 │       ├── Color.kt
 │       ├── Theme.kt
 │       └── Type.kt
+├── images/
+    ├── home.png
+    ├── formulario.png
+    └── perfil.png
