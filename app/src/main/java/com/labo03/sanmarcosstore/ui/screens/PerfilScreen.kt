@@ -61,10 +61,10 @@ fun PerfilScreen() {
                     }
                     Spacer(modifier = Modifier.width(16.dp))
                     Column {
-                        Text("Ana Martinez",
+                        Text("Jose Ccanto",
                             style = MaterialTheme.typography.titleLarge,
                             color = MaterialTheme.colorScheme.onPrimaryContainer)
-                        Text("ana.martinez@correo.com",
+                        Text("jose.ccanto@unmsm.edu.pe",
                             style = MaterialTheme.typography.bodyMedium,
                             color = MaterialTheme.colorScheme.onPrimaryContainer)
                         Text("Cliente desde 2024",
