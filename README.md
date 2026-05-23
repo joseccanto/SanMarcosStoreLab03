@@ -1,6 +1,6 @@
 # SanMarcosStore
 
-Aplicación Android desarrollada con **Jetpack Compose** y **Material Design 3** siguiendo una arquitectura modular basada en Single-Activity Architecture.  
+Aplicación Android desarrollada con **Jetpack Compose** y **Material Design 3**.
 El proyecto implementa navegación entre pantallas, componentes reutilizables, búsqueda dinámica de productos y personalización visual mediante Material Theme Builder.
 
 ---
