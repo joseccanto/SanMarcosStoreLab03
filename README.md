@@ -1,0 +1,57 @@
+# SanMarcosStore
+
+Aplicación Android desarrollada con **Jetpack Compose** y **Material Design 3** siguiendo una arquitectura modular basada en Single-Activity Architecture.  
+El proyecto implementa navegación entre pantallas, componentes reutilizables, búsqueda dinámica de productos y personalización visual mediante Material Theme Builder.
+
+---
+
+## Características
+
+- Jetpack Compose
+- Material Design 3
+- Navegación con Navigation Compose
+- Arquitectura modular
+- Lista dinámica de productos
+- Buscador en tiempo real
+- Floating Action Button (FAB)
+- Formularios con botones Material 3
+- Pantalla de perfil interactiva
+- Tema personalizado con Material Theme Builder
+
+---
+
+## Tecnologías utilizadas
+
+- Kotlin
+- Jetpack Compose
+- Material Design 3
+- Navigation Compose
+- Android Studio Hedgehog+
+- Gradle Kotlin DSL
+
+---
+
+## Estructura del proyecto
+
+```plaintext
+com.example.sanmarcosstore/
+│
+├── MainActivity.kt
+├── model/
+│   └── Producto.kt
+│
+├── ui/
+│   ├── components/
+│   │   └── ProductoItem.kt
+│   │
+│   ├── screens/
+│   │   ├── TiendaScreen.kt
+│   │   └── PerfilScreen.kt
+│   │
+│   ├── navigation/
+│   │   └── AppNavigation.kt
+│   │
+│   └── theme/
+│       ├── Color.kt
+│       ├── Theme.kt
+│       └── Type.kt
