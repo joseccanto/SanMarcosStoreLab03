@@ -60,8 +60,7 @@ com.labo03.sanmarcosstore/
     ├── Tienda_formulario.jpg
     └── Tienda_productos.jpg
 
-![Mi Perfil](app/src/main/java/com/labo03/sanmarcosstore
-/images/Mi_Perfil.jpg)
+![Mi Perfil](app/src/main/java/com/labo03/sanmarcosstore/images/Mi_Perfil.jpg)
 
 ![Formulario de Tienda] (https://github.com/joseccanto/SanMarcosStoreLab03/blob/main/app/src/main/java/com/labo03/sanmarcosstore/images/Tienda_formulario.jpg)
 
