@@ -59,11 +59,12 @@ com.labo03.sanmarcosstore/
     ├── Mi_Perfil.jpg
     ├── Tienda_formulario.jpg
     └── Tienda_productos.jpg
+```
 
 ![Mi Perfil](app/src/main/java/com/labo03/sanmarcosstore/images/Mi_Perfil.jpg)
 
-![Formulario de Tienda] (https://github.com/joseccanto/SanMarcosStoreLab03/blob/main/app/src/main/java/com/labo03/sanmarcosstore/images/Tienda_formulario.jpg)
+![Formulario de Tienda](app/src/main/java/com/labo03/sanmarcosstore/images/Tienda_formulario.jpg)
 
-![Productos de la Tienda] (https://github.com/joseccanto/SanMarcosStoreLab03/blob/main/app/src/main/java/com/labo03/sanmarcosstore/images/Tienda_productos.jpg)
+![Productos de la Tienda](app/src/main/java/com/labo03/sanmarcosstore/images/Tienda_productos.jpg)
 
 
