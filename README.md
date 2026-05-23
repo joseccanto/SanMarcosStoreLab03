@@ -34,7 +34,7 @@ El proyecto implementa navegación entre pantallas, componentes reutilizables, b
 ## Estructura del proyecto
 
 ```plaintext
-com.example.sanmarcosstore/
+com.labo03.sanmarcosstore/
 │
 ├── MainActivity.kt
 ├── model/
